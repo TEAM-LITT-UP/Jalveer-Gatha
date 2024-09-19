@@ -33,10 +33,8 @@ Welcome to **Jalveer Gatha**, an educational game set in the fictional land of *
 ## **MCQ System** ❓
 
 ### **MCQ System Overview**
-![MCQ System Overview](images/mcq-system-overview.png)
+![MCQ System Overview](gif4.gif)
 
-### **MCQ Question Example**
-![MCQ Question Example](images/mcq-question-example.png)
 
 ### **Features**
 - **Interactive Conversations**: [Description of how the chatbot interacts with users.]
