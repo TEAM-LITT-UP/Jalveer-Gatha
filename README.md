@@ -10,7 +10,7 @@ Welcome to Jalveer Gatha, an educational game set in the fictional land of Aquat
 Storyline 🎮
 
 
-Act 1: The Awakening
+#Act 1: The Awakening
 The beginning of your journey.
 
 You begin as an ordinary resident of Aquaterra, unaware of the looming crisis. The environment shows signs of drought, water scarcity, and decay. One night, you're visited by the Spirit of the Aquifer, who reveals the dire situation. You are chosen to become a Jalveer, a protector of the land, to save Aquaterra from collapse. Your first task is to address water issues in your village by introducing sustainable practices like rainwater harvesting and microirrigation.
