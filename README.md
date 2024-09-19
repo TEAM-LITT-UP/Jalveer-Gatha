@@ -14,6 +14,7 @@ The beginning of your journey.
 You begin as an ordinary resident of Aquaterra, unaware of the looming crisis. The environment shows signs of drought, water scarcity, and decay. One night, you're visited by the Spirit of the Aquifer, who reveals the dire situation. You are chosen to become a Jalveer, a protector of the land, to save Aquaterra from collapse. Your first task is to address water issues in your village by introducing sustainable practices like rainwater harvesting and microirrigation.
 
 Objectives:
+
 Learn the basics of groundwater management and sustainable water use.
 Implement simple water-saving measures in your village.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -25,7 +26,6 @@ As you venture beyond your village, you find the surrounding regions in even wor
 Objectives:
 Introduce methods like artificial recharge and efficient irrigation systems.
 Prevent groundwater contamination and implement local water management solutions.
-
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Act 3: The Crisis
 The darkest point in Aquaterra's history.
@@ -35,7 +35,6 @@ Despite your best efforts, a severe drought hits Aquaterra. Overuse of groundwat
 Objectives:
 Address groundwater depletion and manage emergency water supplies.
 Make moral decisions about water distribution to ensure survival.
-
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Act 4: The Restoration
 The path to recovery.
@@ -45,6 +44,7 @@ The crisis serves as a wake-up call for all of Aquaterra. With new technologies 
 Objectives:
 Implement large-scale water restoration projects, such as check dams and reforestation.
 Collaborate with communities to balance agricultural, industrial, and domestic water use.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Act 5: The Future
 Securing Aquaterra's future.
 
