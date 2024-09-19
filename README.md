@@ -16,6 +16,7 @@ You begin as an ordinary resident of Aquaterra, unaware of the looming crisis. T
 Objectives:
 Learn the basics of groundwater management and sustainable water use.
 Implement simple water-saving measures in your village.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Act 2: The Challenge
 Facing the wider crisis.
 
@@ -24,6 +25,8 @@ As you venture beyond your village, you find the surrounding regions in even wor
 Objectives:
 Introduce methods like artificial recharge and efficient irrigation systems.
 Prevent groundwater contamination and implement local water management solutions.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Act 3: The Crisis
 The darkest point in Aquaterra's history.
 
@@ -32,6 +35,8 @@ Despite your best efforts, a severe drought hits Aquaterra. Overuse of groundwat
 Objectives:
 Address groundwater depletion and manage emergency water supplies.
 Make moral decisions about water distribution to ensure survival.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Act 4: The Restoration
 The path to recovery.
 
