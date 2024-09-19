@@ -4,7 +4,7 @@
 Welcome to **Jalveer Gatha**, an educational game set in the fictional land of **Aquaterra**. As a Guardian of the Aquifer, or a **Jalveer**, it's your mission to restore balance to Aquaterra, a world suffering from environmental degradation due to unsustainable groundwater practices. Your journey spans five acts filled with challenges, critical decisions, and learning about water conservation. 🌱
 
 ---
-# **Project Documentation** 📚
+# **What we did in the Internal Hackathon** 📚
 
 ## **Game Implementation Images** 🎮
 
