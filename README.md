@@ -9,7 +9,7 @@ Welcome to **Jalveer Gatha**, an educational game set in the fictional land of *
 ## **Game Implementation Images** 🎮
 
 ### **Game Screenshot 1**
-![Game Screenshot 1](images/game-screenshot1.png)
+![Game Screenshot 1](first.jpg)
 
 ### **Game Screenshot 2**
 ![Game Screenshot 2](images/game-screenshot2.png)
