@@ -16,6 +16,7 @@ You begin as an ordinary resident of Aquaterra, unaware of the looming crisis. T
 Objectives:
 -----------
 Learn the basics of groundwater management and sustainable water use.
+
 Implement simple water-saving measures in your village.
 
 
