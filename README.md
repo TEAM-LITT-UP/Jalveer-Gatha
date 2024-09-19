@@ -14,6 +14,11 @@ Welcome to **Jalveer Gatha**, an educational game set in the fictional land of *
 ### **Game Screenshot 2**
 ![Game Screenshot 2](images/game-screenshot2.png)
 
+### **Features**
+- **Interactive Conversations**: [Description of how the chatbot interacts with users.]
+- **Integration**: [Description of how the chatbot is integrated into the application or website.]
+- **Use Cases**: [Examples of questions the chatbot can answer or tasks it can perform.]
+
 ## **Chatbot Images** 🤖
 
 ### **Chatbot Interface**
@@ -22,6 +27,11 @@ Welcome to **Jalveer Gatha**, an educational game set in the fictional land of *
 ### **Chatbot Interaction**
 ![Chatbot Interaction](images/chatbot-interaction.png)
 
+### **Features**
+- **Interactive Conversations**: [Description of how the chatbot interacts with users.]
+- **Integration**: [Description of how the chatbot is integrated into the application or website.]
+- **Use Cases**: [Examples of questions the chatbot can answer or tasks it can perform.]
+
 ## **MCQ System** ❓
 
 ### **MCQ System Overview**
@@ -29,6 +39,11 @@ Welcome to **Jalveer Gatha**, an educational game set in the fictional land of *
 
 ### **MCQ Question Example**
 ![MCQ Question Example](images/mcq-question-example.png)
+
+### **Features**
+- **Interactive Conversations**: [Description of how the chatbot interacts with users.]
+- **Integration**: [Description of how the chatbot is integrated into the application or website.]
+- **Use Cases**: [Examples of questions the chatbot can answer or tasks it can perform.]
 
 
 
