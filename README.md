@@ -12,7 +12,7 @@ Welcome to **Jalveer Gatha**, an educational game set in the fictional land of *
 ![Game Screenshot 1](gif1.gif)
 
 ### **Game Screenshot 2**
-![Game Screenshot 2](images/game-screenshot2.png)
+![Game Screenshot 2](gif2.gif)
 
 ### **Features**
 - **Interactive Conversations**: [Description of how the chatbot interacts with users.]
