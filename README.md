@@ -24,6 +24,7 @@ Implement simple water-saving measures in your village.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Act 2: The Challenge
+
 Facing the wider crisis.
 
 As you venture beyond your village, you find the surrounding regions in even worse condition. Rivers are drying up, forests are turning to dust, and the people are losing hope. It's up to you to bring new water conservation strategies to these communities.
@@ -34,6 +35,7 @@ Introduce methods like artificial recharge and efficient irrigation systems.
 Prevent groundwater contamination and implement local water management solutions.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Act 3: The Crisis
+
 The darkest point in Aquaterra's history.
 
 Despite your best efforts, a severe drought hits Aquaterra. Overuse of groundwater by industries and mismanagement by local authorities push the land to the brink of collapse. Communities start to fight for the little water left, and you must make difficult decisions to ensure survival while maintaining long-term sustainability.
