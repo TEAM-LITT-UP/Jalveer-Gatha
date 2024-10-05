@@ -33,7 +33,7 @@ Welcome to **Jalveer Gatha**, an educational game set in the fictional land of *
 ![MCQ System Overview](gif4.gif)
 
 ### *Simulation System**
-- **The simulation system immerses users in realistic scenarios, allowing them to experiment with different groundwater management strategies and observe the outcomes of their decisions in a dynamic environment.
+- The simulation system immerses users in realistic scenarios, allowing them to experiment with different groundwater management strategies and observe the outcomes of their decisions in a dynamic environment.
 
 
 
