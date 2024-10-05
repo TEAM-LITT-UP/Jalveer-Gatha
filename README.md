@@ -8,16 +8,14 @@ Welcome to **Jalveer Gatha**, an educational game set in the fictional land of *
 
 ## **Game Implementation Images** 🎮
 
-### **Game Screenshot 1**
+### **Game Gif 1**
 ![Game Screenshot 1](gif1.gif)
 
-### **Game Screenshot 2**
+### **Game Gif 2**
 ![Game Screenshot 2](gif2.gif)
 
 ### **Features**
-- **Interactive Conversations**: [Description of how the chatbot interacts with users.]
-- **Integration**: [Description of how the chatbot is integrated into the application or website.]
-- **Use Cases**: [Examples of questions the chatbot can answer or tasks it can perform.]
+- **Interactive Conversations**: The dialogue system enhances user experience by delivering contextual information, guiding players through tasks, and facilitating interactive decision-making within the game.
 
 ## **Chatbot Images** 🤖
 
@@ -26,22 +24,16 @@ Welcome to **Jalveer Gatha**, an educational game set in the fictional land of *
 
 
 ### **Features**
-- **Interactive Conversations**: [Description of how the chatbot interacts with users.]
-- **Integration**: [Description of how the chatbot is integrated into the application or website.]
-- **Use Cases**: [Examples of questions the chatbot can answer or tasks it can perform.]
+- **Interactive Conversations**: The chatbot(NPC) provides real-time guidance, offering tips and educational information on groundwater management as players navigate challenges and make decisions in the game.
+- **Integration**: The chatbot is seamlessly integrated into the application using an embedded interface, enabling users to interact with it directly within the game or website for real-time assistance and educational content.
 
 ## **MCQ System** ❓
 
 ### **MCQ System Overview**
 ![MCQ System Overview](gif4.gif)
 
-
-### **Features**
-- **Interactive Conversations**: [Description of how the chatbot interacts with users.]
-- **Integration**: [Description of how the chatbot is integrated into the application or website.]
-- **Use Cases**: [Examples of questions the chatbot can answer or tasks it can perform.]
-
-
+### *Simulation System**
+- **The simulation system immerses users in realistic scenarios, allowing them to experiment with different groundwater management strategies and observe the outcomes of their decisions in a dynamic environment.
 
 
 
